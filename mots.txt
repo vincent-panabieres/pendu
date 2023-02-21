@@ -1,0 +1,10 @@
+girafe
+tigre
+singe
+souris
+chat
+chien
+ordinateur
+canette
+casque
+table
